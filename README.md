@@ -5,7 +5,7 @@
 ### To use this project, simply type in the text that you want to convert to speech and submit it. The program will then use the Speech Synthesis API to generate a voice output of the text that you entered.
 
 ## Installation
-To use this project, You can then download the project from GitHub and run it in your work environment.
+### To use this project, You can then download the project from GitHub and run it in your work environment.
 
 ## License
-This project is licensed under the MIT License. You are free to use, modify, and distribute the code as you see fit
+### This project is licensed under the MIT License. You are free to use, modify, and distribute the code as you see fit
